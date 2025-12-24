@@ -1,0 +1,21 @@
+BasedOnStyle: LLVM
+
+# Indentation
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+
+# Line length
+ColumnLimit: 100
+
+# Braces: Allman style
+BreakBeforeBraces: Allman
+
+# Allow empty blocks on one line
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: Empty
+AllowShortLoopsOnASingleLine: Empty
+AllowShortBlocksOnASingleLine: Empty
+
+# Spacing
+SpaceBeforeParens: ControlStatements
