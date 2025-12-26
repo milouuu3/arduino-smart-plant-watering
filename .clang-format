@@ -13,8 +13,8 @@ BreakBeforeBraces: Allman
 
 # Allow empty blocks on one line
 AllowShortFunctionsOnASingleLine: Empty
-AllowShortIfStatementsOnASingleLine: Empty
-AllowShortLoopsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
 AllowShortBlocksOnASingleLine: Empty
 
 # Spacing

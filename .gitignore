@@ -32,3 +32,8 @@ Thumbs.db
 # =========================
 __pycache__/
 *.pyc
+
+# =========================
+# Credentials header
+# =========================
+credentials.h
